@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(50, 103, 105);
+}
+
+.clock-title{
+    font-family: roboto, arial;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 4px;
+
+}
+
+.clock{
+    position: relative;
+    color: rgb(110, 12, 32);
+    font-size: 40px;
+    text-align: center;
+}
